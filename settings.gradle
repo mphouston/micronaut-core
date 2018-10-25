@@ -73,5 +73,6 @@ include "configurations:picocli"
 include "configurations:openapi"
 include "configurations:security-ldap"
 include "configurations:multitenancy-gorm"
+include "configurations:liquibase"
 
 include "build-projects:asciidoc-config-props"
