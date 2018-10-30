@@ -74,5 +74,6 @@ include "configurations:openapi"
 include "configurations:security-ldap"
 include "configurations:multitenancy-gorm"
 include "configurations:liquibase"
+include "configurations:flyway"
 
 include "build-projects:asciidoc-config-props"
